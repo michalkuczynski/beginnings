@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7dac4bd-4007-491d-9cb6-0607b38cf804" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B1_4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/B1_4.3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="C:\Users\PC\Moje dokumenty\programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.B1_4.3">
+  <component name="RunManager" selected="Python.B1_4.2b">
     <configuration name="B1_4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="B1_4.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="B1_4.2b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/B1_4.3.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\PC\Moje dokumenty\programming\B1_4.2b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +160,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.B1_4.3" />
+        <item itemvalue="Python.B1_4.2b" />
         <item itemvalue="Python.calc" />
         <item itemvalue="Python.B1_4.2" />
         <item itemvalue="Python.B1_4.1" />
