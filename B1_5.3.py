@@ -12,6 +12,7 @@ class Board():
                     board[i][j]=number
                 else:
                     board[i][j]=0
+
         for i in range(n):
             for j in range(n):
                 print(board[i][j]," ",end="")
@@ -21,8 +22,8 @@ class Board():
         sum=0
         for i in range(n):
             sum+=board[i][i]
-            print()
-            print("Sum of diagonal numbers is ",sum)
+        print()
+        print("Sum of diagonal numbers is ",sum)
 
 def main():
     n=10
